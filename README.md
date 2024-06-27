@@ -1,6 +1,12 @@
 # User Authentication using nodejs and MySQL with Sequelize
 
-this offers
+workflow
+-----------
+<img src="./readme assets/workflow.png">
+
+
+
+steps
 -----------
 
 - user registation with hashed password
